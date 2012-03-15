@@ -1,3 +1,3 @@
-A browser userscript (for, i.e., Greasemonkey on Firefox, or Opera) which will highlight your favorite team in the media center guide on MLB.tv, so you can quickly see when your team is playing.
+A browser userscript (for, e.g., Greasemonkey on Firefox, or Opera) which will highlight your favorite team in the media center guide on MLB.tv, so you can quickly see when your team is playing.
 
 You can edit the variables at the top of the script, my_team and highlight_color, to change your team (the default is the Athletics) and the color used to highlight your team's rows, respectively.
